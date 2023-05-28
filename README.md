@@ -147,6 +147,9 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## OUTPUT
 
+![2023-05-28 (8)](https://github.com/divz2711/ExplicitIntents/assets/121245222/ae1d35e7-fdd1-44d8-9372-f2fa721d5140)
+![image](https://github.com/divz2711/ExplicitIntents/assets/121245222/f00d0a3d-be24-4a0d-b442-d0f0bfeab114)
+![image](https://github.com/divz2711/ExplicitIntents/assets/121245222/b5a5054f-6c7d-4533-ad94-fffc3f912d6c)
 
 
 
